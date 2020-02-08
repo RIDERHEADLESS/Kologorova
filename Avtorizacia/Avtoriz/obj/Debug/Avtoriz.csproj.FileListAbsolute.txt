@@ -1,0 +1,10 @@
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\bin\Debug\Avtoriz.exe.config
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\bin\Debug\Avtoriz.exe
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\bin\Debug\Avtoriz.pdb
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.csprojAssemblyReference.cache
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.Form1.resources
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.Properties.Resources.resources
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.csproj.GenerateResource.cache
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.csproj.CoreCompileInputs.cache
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.exe
+C:\Users\Krista\source\repos\Avtorizacia\Avtoriz\obj\Debug\Avtoriz.pdb
